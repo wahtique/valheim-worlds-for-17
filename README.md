@@ -6,7 +6,7 @@ This goes in `{your_system_partition}\Users\{your_user_name}\AppData\LocalLow\Ir
 
 Don't forget to commit if you are the last to host !
 
-## Mods by Wahtique
+## Mods list by Wahtique
 
 - https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/ un dépendance commune pour bcp de mods
  - alternativement celui la directement https://www.nexusmods.com/valheim/mods/15?tab=description depuis nexusmods
@@ -26,8 +26,9 @@ Conseillé mais osef si vous avez la flemme :
 - 
 A voir si ça vous interesse : 
 
-- https://www.nexusmods.com/valheim/mods/452   sur les chemins
+- https://www.nexusmods.com/valheim/mods/452 sur les chemins
 - https://www.nexusmods.com/valheim/mods/38 des jours plus longs pour @Gorgobalt 
-- https://www.nexusmods.com/valheim/mods/591?tab=description corrige les tower shields ( mais on est des vikings donc  )
+- https://www.nexusmods.com/valheim/mods/591?tab=description corrige les tower shields ( mais on est des vikings donc bon)
+- 
 C'est surtout des mods qui rendent le jeu plus confortable pas de cheat 
 
